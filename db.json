@@ -1,0 +1,19 @@
+{
+  "clients": [
+    {
+      "id": "db25",
+      "fullName": "Abdul Hared",
+      "moveInDate": "2002-07-13"
+    },
+    {
+      "id": "5b39",
+      "fullName": "Abdilatif yussuf",
+      "moveInDate": "2004-12-05"
+    },
+    {
+      "id": "1ef1",
+      "fullName": "Abdul Hared",
+      "moveInDate": "2002-07-13"
+    }
+  ]
+}
